@@ -8,7 +8,8 @@
   - [FitZone. Fitness Tracker and Social Platform]()
 - <b>Java Database Connectivity/DBMS (Java, Oracle/SQL, Powershell)</b>
   - [Arcade & Restaurant Database Management System]()
-- <b>Machine Learning Model (pandas, numpy, scikit-learn, XGBoost, nltk, TfidfVectorizer, CountVectorizer, Logistic Regression, SVC, GridSearchCV)</b>
+- <b>Machine Learning Model (TfidfVectorizer, CountVectorizer, Logistic Regression, SVC, GridSearchCV)</b>
   - [Detects whether tweet is sexist or not]()
+
 
 <h2> 🤳 Connect with me!</h2>
