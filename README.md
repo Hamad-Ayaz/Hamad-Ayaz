@@ -6,7 +6,7 @@
   - [Praciting DS & Algos in Python]()
 - <b>Full Stack Web App (MongoDB, Express.js, React, Node.js, DigitalOcean)</b>
   - [FitZone. Fitness Tracker and Social Platform]()
-- <b>Java Database Connectivity/DBMS (.NET Desktop Applications)</b>
+- <b>Java Database Connectivity/DBMS (Java, Oracle/SQL, Powershell)</b>
   - [Arcade & Restaurant Database Management System]()
 
 <h2> 🤳 Connect with me!</h2>
