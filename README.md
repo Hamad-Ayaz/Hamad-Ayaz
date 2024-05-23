@@ -9,7 +9,7 @@
 - <b>Java Database Connectivity/DBMS (Java, Oracle/SQL, Powershell)</b>
   - [Arcade & Restaurant Database Management System]()
 - <b>Machine Learning Model (TfidfVectorizer, CountVectorizer, Logistic Regression, SVC, GridSearchCV)</b>
-  - [Detects whether tweet is sexist or not]()
+  - [Detects whether tweet is sexist or not](https://github.com/Hamad-Ayaz/MachineLearningSexism)
 - <b>FUN: Janky Sudoku</b>
   - [An unconventional web based sudoku game]
 
