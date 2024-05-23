@@ -7,7 +7,7 @@
 - <b>Full Stack Web App (MongoDB, Express.js, React, Node.js, AWS)</b>
   - [FitZone. Fitness Tracker and Social Platform]()
 - <b>Java Database Connectivity/DBMS (Java, Oracle/SQL, Powershell)</b>
-  - [Arcade & Restaurant Database Management System]()
+  - [Arcade & Restaurant Database Management System](https://github.com/Hamad-Ayaz/ArcadeRestaurantDBMS)
 - <b>Machine Learning Model (TfidfVectorizer, CountVectorizer, Logistic Regression, SVC, GridSearchCV)</b>
   - [Detects whether tweet is sexist or not](https://github.com/Hamad-Ayaz/MachineLearningSexism)
 - <b>FUN: Janky Sudoku</b>
