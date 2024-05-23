@@ -10,7 +10,5 @@
   - [Arcade & Restaurant Database Management System](https://github.com/Hamad-Ayaz/ArcadeRestaurantDBMS)
 - <b>Machine Learning Model (TfidfVectorizer, CountVectorizer, Logistic Regression, SVC, GridSearchCV)</b>
   - [Detects whether tweet is sexist or not](https://github.com/Hamad-Ayaz/MachineLearningSexism)
-- <b>FUN: Janky Sudoku</b>
-  - [An unconventional web based sudoku game]
 
 <h2> 🤳 Connect with me!</h2>
