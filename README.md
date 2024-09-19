@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hamad! (migrating github, so work in progress!) <br/><a href="https://github.com/Hamad-Ayaz">Github</a>, <a href="https://www.linkedin.com/in/hamad-ayaz-53629830a/">LinkedIn</a></h1>
+<h1>Hi, I'm Hamad! (migrating old github, so work in progress!) <br/><a href="https://github.com/Hamad-Ayaz">Github</a>, <a href="https://www.linkedin.com/in/hamad-ayaz-53629830a/">LinkedIn</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
